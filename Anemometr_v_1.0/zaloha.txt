@@ -1,0 +1,35 @@
+((lp0
+I-1
+aI-12
+aI-11
+aI65
+aI16
+aI35
+aI20
+aI21
+aI23
+aI18
+aI38
+aI23
+aI22
+aI19
+aI24
+aI18
+aI18
+aI20
+aI18
+aI57
+aI68
+aI28
+aI15
+aI17
+aI18
+aI15
+aI11
+aI10
+aS' '
+p1
+S' \n'
+p2
+tp3
+.
