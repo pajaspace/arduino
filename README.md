@@ -1,6 +1,6 @@
 # arduino
 
-- to install > just download project
+- to install > just download project actual version is 2
  
  - best think is import to eclipse
  
@@ -13,3 +13,7 @@
    ----------------------------------------
    
    TO DO - make this readme more complex
+
+    Regarding this project is to on wiki pages github.
+    
+    
