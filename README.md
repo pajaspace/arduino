@@ -8,7 +8,7 @@
   
   ---------------------------------------
    Note> Its not started on first time , because of not_cleaned_cash problem.
-   But ist working fine :-)
+   But it is working fine :-)
    
    ----------------------------------------
    
