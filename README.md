@@ -1,8 +1,16 @@
 # arduino
 
-- to install > just download project actual version is 2
+- To install > 
+- 
+- Download project actual version is 2
  
- - best think is import to eclipse
+ - best think is import to eclipse python code
+ - *.ino cone start in the Arduino.IDE 
+  
+   on the line 
+  
+  arduinoData = serial.Serial('/dev/ttyACM0', 9600)    - fill the correct port - same like you have setted
+  by arduini ide                                                            
  
   - starting mat.py
   
