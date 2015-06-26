@@ -2,7 +2,7 @@
 
  Installing 
 - 
-- Download project actual version is 2
+- Download project actual version is Anemometr v 2_0
  
  - best think is import to eclipse python code
  - *.ino cone start in the Arduino.IDE 
