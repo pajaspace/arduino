@@ -16,6 +16,13 @@
   
   ---------------------------------------
    Note> Its not started on first time , because of not_cleaned_cash problem.
+   
+typ of failure >> 
+
+  hod = int(dataArray[0])  # Convert first element to floating number and put in temp
+   ValueError: invalid literal for int() with base 10: '9\r-5\r\n'
+  
+work arruond >> just starting application couple of time , abd its started ok . ... - one of bug currently 
    But it is working fine :-)
    
    ----------------------------------------
